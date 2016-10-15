@@ -57,8 +57,11 @@ a {
   color: #foo;
   text-align: center;
   background-color: #159957;
-  background-image: linear(http://vidzshare.net/); }
-
+  
+  background-image: url(../rose.jpg);
+  Background-repeat: no-repeat;
+  background-size: cover;
+  )
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
