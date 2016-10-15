@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Times new Roman, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Comic Sans Ms, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
@@ -31,7 +31,7 @@ a {
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: pink(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
 
 @media screen and (min-width: 64em) {
