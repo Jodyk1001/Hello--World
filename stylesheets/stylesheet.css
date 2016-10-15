@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Times new Roman, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
@@ -54,7 +54,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #foo;
+  color: #Boo;
   text-align: center;
   background-color: #159957;
   
@@ -163,7 +163,7 @@ a {
   overflow: initial;
   line-height: inherit;
   word-wrap: normal;
-  background-color: transparent;
+  background-color:pink;
   border: 0; }
   .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after {
     content: normal; }
